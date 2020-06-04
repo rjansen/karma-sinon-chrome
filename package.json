@@ -4,13 +4,13 @@
   "version": "0.2.0",
   "author": "9joneg",
   "dependencies": {
-    "sinon-chrome": "^1.1.2"
+    "sinon-chrome": "^3.0.1"
   },
   "devDependencies": {
     "di": "0.0.1",
-    "mocha": "^2.4.5",
-    "snazzy": "^3.0.1",
-    "standard": "^6.0.8"
+    "mocha": "^7.2.0",
+    "snazzy": "^8.0.0",
+    "standard": "^14.3.0"
   },
   "keywords": [
     "karma-framework",
