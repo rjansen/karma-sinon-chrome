@@ -1,7 +1,7 @@
 {
   "name": "karma-sinon-chrome",
   "description": "A Karma plugin - adapter for sinon-chrome",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "9joneg",
   "dependencies": {
     "sinon-chrome": "^3.0.1"
@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "9joneg/karma-sinon-chrome",
+  "repository": "rjansen/karma-sinon-chrome",
   "scripts": {
     "lint": "standard | snazzy",
     "test": "mocha"
